@@ -1,5 +1,3 @@
-
-
 const fetch = require('node-fetch');
 const apiKey = require('./key.js');
 
